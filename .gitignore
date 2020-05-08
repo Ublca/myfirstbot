@@ -1,0 +1,3 @@
+*.log
+confingbot.py
+__pycache__
